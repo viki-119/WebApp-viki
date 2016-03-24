@@ -10,7 +10,7 @@ minimum-scale：最小缩放
 maximum-scale：最大缩放   
 user-scalable：用户能否缩放   
 
-document.body.clientWidth
+布局viewport: document.body.clientWidth
 
-window.innerWidth
+度量viewport: window.innerWidth
 
