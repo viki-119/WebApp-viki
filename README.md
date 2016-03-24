@@ -15,3 +15,8 @@ user-scalable：用户能否缩放
 
 度量viewport: window.innerWidth
 
+在HTML中怎么使页面做出来，不随放大缩小而变形？
+http://zhidao.baidu.com/question/1795891798473719907.html?fr=iks&word=user-scalable%3Dno&ie=gbk
+PC端:<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+Mobile端:<meta name="viewport" content="target-densitydpi=device-dpi, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
